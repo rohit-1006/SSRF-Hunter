@@ -1,4 +1,4 @@
-# SSRF Hunter Pro
+# SSRF Hunter
 
 A desktop GUI application for detecting Server-Side Request Forgery (SSRF) vulnerabilities. Built with Python and Tkinter, it combines payload generation, blind SSRF detection via built-in callback servers, cloud metadata targeting, and internal network discovery into a single tool designed for authorized penetration testing and bug bounty research.
 
